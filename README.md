@@ -1,4 +1,4 @@
 # Projects
-There are two programs.
-First contains the word-char count using core java. 
-Second contains the program using java-swing. 
+There are 2 different programs
+1)WordGenerator contains program to find the word and char count in the string.
+2)PasswordGenerator contains program which will create random passwords.
