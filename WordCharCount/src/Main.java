@@ -3,5 +3,6 @@ public class Main {
         var c = new CharCount();
         c.charCount();
         c.wordCount();
+        var c1 = new CharCountUsingSwing();
     }
 }
