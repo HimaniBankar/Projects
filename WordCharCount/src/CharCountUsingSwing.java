@@ -8,7 +8,7 @@ public class CharCountUsingSwing extends JFrame implements ActionListener
     JButton button1,button2;
     CharCountUsingSwing()
     {
-        super("Word Character Counter in Java- Coding Ninjas");
+        super("Word Character Counter in Java");
         t=new JTextArea();
         t.setBounds(60,60,350,250);
 
