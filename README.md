@@ -1,6 +1,6 @@
 # Projects
 
-There are 4 different programs:
+There are 4 different programs :
 
 1)WordGenerator contains program to find the number of words and number of characters in a string.
 
