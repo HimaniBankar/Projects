@@ -9,3 +9,5 @@ There are 4 different programs :
 3)CurrenyConvertor contains a program which will take one type of currency(Rupee, Dollar, Pound, Euro, Yen) and convert to all type of currencies(Rupee, Dollar, Pound, Euro, Yen).
 
 4)numberGuessingGame contains a program which will guess if the number matches the input or not.
+
+5)URLShortner contains a program which will take the link and make it short.
